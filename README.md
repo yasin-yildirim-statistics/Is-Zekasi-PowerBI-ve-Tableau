@@ -1,6 +1,6 @@
-# 📊 PowerBi-Yetgim
+# 📊 Is-Zekasi-PowerBI-ve-Tableau by YETGIM
 
-🌟 Welcome to the **PowerBi-Yetgim** repository! This project is designed entirely using **Jupyter Notebook**.
+🌟 Welcome to the **Is-Zekasi-PowerBI-ve-Tableau** repository! This project is designed entirely using **Jupyter Notebook**.
 
 📚 **What's Inside?**
 - 🚀 A collection of scripts and notebooks for data analysis and visualization.
@@ -10,7 +10,7 @@
 🖥️ **Jupyter Notebook Excellence**
 - This repository is 100% powered by **Jupyter Notebook**, ensuring seamless exploration and execution of Python-based data workflows.
 
-🌟 Dive in and explore the power of data visualization with PowerBi-Yetgim! Happy coding!
+🌟 Dive in and explore the power of data visualization with Is-Zekasi-PowerBI-ve-Tableau! Happy coding!
 
 ---
 
